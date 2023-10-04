@@ -1,6 +1,6 @@
 # VVC_CU_Partition_Visualization
 VVC_CU_Partition_Visualization
-![image](https://github.com/Huai0429/VVC_CU_Partition_Visualization/main/CTU000.png)
+![image](https://github.com/Huai0429/VVC_CU_Partition_Visualization/blob/main/CTU000.png)
 # Cpp file
 add the following code at the end of "compressCTU" function
 ## CU
@@ -52,4 +52,4 @@ for (auto &currCU : cs.traverseCUs(area, ChannelType::LUMA))
 TUmyfile.close();
 ```
 # Python file 
-using python Visual.py -h for more help information
+using python Visual.py -h for more useful information
