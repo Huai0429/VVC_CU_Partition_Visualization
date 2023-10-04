@@ -1,5 +1,4 @@
 # VVC_CU_Partition_Visualization
-VVC_CU_Partition_Visualization
 ![image](https://github.com/Huai0429/VVC_CU_Partition_Visualization/blob/main/CTU000.png)
 # Cpp file
 add the following code at the end of "compressCTU" function
